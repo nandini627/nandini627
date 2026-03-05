@@ -8,14 +8,6 @@
 - Express.js
 - MongoDB
 
-🛠️ Tech Stack:
-- JavaScript
-- Node.js
-- Express.js
-- MongoDB
-- C++
-- REST APIs
-
 📌 Goal: Building beginner-friendly projects and improving backend development skills.
 
 📫 Connect with me:
