@@ -19,16 +19,25 @@
 📌 Goal: Building beginner-friendly projects and improving backend development skills.
 
 📫 Connect with me:
-- LinkedIn: (add link)
-- Email: (add email)
+- LinkedIn: https://www.linkedin.com/in/nandini-prajapati-6351363b1/
+- Email: bp623989@gmail.com
+- Twitter:https://x.com/NandiniPraj4434
+- Youtube:https://www.youtube.com/@NandiniPrajapati-n8z
 
 ## 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Node.js](https://img.shields.io/badge/Node.js-green)
-![Express.js](https://img.shields.io/badge/Express.js-black)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen)
-![C++](https://img.shields.io/badge/C++-blue)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 
 
 ## 🚀 Projects
