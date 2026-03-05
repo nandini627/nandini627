@@ -15,6 +15,7 @@
 - Email: bp623989@gmail.com
 - Twitter:https://x.com/NandiniPraj4434
 - Youtube:https://www.youtube.com/@NandiniPrajapati-n8z
+- sololearn:https://www.sololearn.com/en/profile/34914137
 
 ## 🛠️ Tech Stack
 
