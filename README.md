@@ -1,24 +1,23 @@
-Hi, I'm NANDINI👋
-🎓 Computer Science Student
-💻 Interested in Web Development and Backend Development
-🌱 Currently learning Node.js, Express and MongoDB
-🚀 Building beginner friendly projects to improve my skills
+# Hi 👋 I'm Nandini
+
+💻 Computer Science Student  
+🚀 Interested in Web Development & Backend Development  
+
+🌱 Currently learning:
+- Node.js
+- Express.js
+- MongoDB
+
+🛠️ Tech Stack:
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
+- C++
+- REST APIs
+
+📌 Goal: Building beginner-friendly projects and improving backend development skills.
 
 📫 Connect with me:
-
-LinkedIn: 
-
-Email: 
-
-🛠 Skills
-JavaScript
-
-Node.js
-
-Express.js
-
-MongoDB
-
-C++
-
-REST APIs
+- LinkedIn: (add link)
+- Email: (add email)
