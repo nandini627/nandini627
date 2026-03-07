@@ -1,14 +1,18 @@
 <h1 align="center">Hi 👋, I'm Nandini Prajapati</h1>
 
-<h3 align="center">Computer Science Student | Backend Developer Enthusiast</h3>
+<h3 align="center">Computer Science Student | Backend Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend+Developer;Node.js+%7C+Express+%7C+MongoDB;Building+Scalable+REST+APIs;Learning+System+Design;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=⚡+Backend+Developer;🚀+Node.js+%7C+Express+%7C+MongoDB;💡+Building+Scalable+REST+APIs;🔥+Always+Learning+New+Technologies" />
 </p>
 
 ---
 
 ## 🚀 About Me
+
+<table>
+<tr>
+<td width="50%">
 
 💻 Computer Science student passionate about **Backend Development**
 
@@ -20,22 +24,28 @@
 - Express.js  
 - MongoDB  
 
-🎯 Goal: Build **secure and high-performance backend systems**
+🎯 Goal  
+Build **secure, scalable and high-performance backend systems**
+
+🔥 Currently working on backend projects and improving API architecture.
+
+</td>
+
+<td width="50%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages & Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,js,nodejs,express" />
-</p>
-
-### 🗄️ Database & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,git,postman,vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,js,nodejs,express,mongodb,git,postman,vscode" />
 </p>
 
 ---
@@ -43,20 +53,18 @@
 ## 📂 Featured Projects
 
 ### 🌐 User Management REST API
+
 Backend system for managing users securely.
 
 **Tech Stack**
 
-- Node.js
-- Express.js
-- MongoDB
-- Postman
+Node.js • Express.js • MongoDB
 
 ✨ Features
 
 - Full CRUD operations  
 - RESTful API structure  
-- Tested endpoints with Postman  
+- Postman tested endpoints  
 
 ---
 
@@ -64,9 +72,7 @@ Backend system for managing users securely.
 
 API providing structured insights into Indian states data.
 
-**Tech**
-
-Node.js • REST API
+Tech: **Node.js • REST API**
 
 ---
 
@@ -106,16 +112,6 @@ Node.js • REST API
 
 ---
 
-## 🧠 Most Used Languages
-
-<p align="center">
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🔥 GitHub Activity Graph
 
 <p align="center">
@@ -126,4 +122,4 @@ Node.js • REST API
 
 ---
 
-⭐ *Always learning, building and improving backend systems.*
+⭐ *Passionate about building backend systems and learning new technologies.*
