@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nandini Prajapati</h1>
 
-<h3 align="center">Computer Science Student | Backend Developer</h3>
+<h3 align="center">🚀 Backend Developer | Computer Science Student</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=⚡+Backend+Developer;🚀+Node.js+%7C+Express+%7C+MongoDB;💡+Building+Scalable+REST+APIs;🔥+Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=34&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=⚡+Backend+Developer;🚀+Node.js+%7C+Express+%7C+MongoDB;💡+Designing+Scalable+APIs;🔥+Clean+Code+%7C+Best+Practices;🌱+Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -34,6 +34,10 @@
 
 <a href="https://www.youtube.com/@NandiniPrajapati-n8z">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://www.sololearn.com/">
+<img src="https://img.shields.io/badge/SoloLearn-149EF2?style=for-the-badge&logo=sololearn&logoColor=white"/>
 </a>
 
 </p>
