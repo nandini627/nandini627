@@ -10,69 +10,9 @@
 
 ## 🚀 About Me
 
-<table>
-<tr>
-<td width="50%">
-
-💻 Computer Science student passionate about **Backend Development**
-
-⚙️ I enjoy building **scalable APIs and backend systems**
-
-🌱 Currently learning
-
-- Node.js  
-- Express.js  
-- MongoDB  
-
-🎯 Goal  
-Build **secure, scalable and high-performance backend systems**
-
-🔥 Currently working on backend projects and improving API architecture.
-
-</td>
-
-<td width="50%">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,js,nodejs,express,mongodb,git,postman,vscode" />
+💻 Computer Science student passionate about Backend Development | ⚙️ Building scalable APIs and backend systems | 🌱 Learning Node.js, Express.js, MongoDB | 🎯 Goal: Secure, scalable, high-performance backend systems | 🔥 Working on backend projects & improving API architecture
 </p>
-
----
-
-## 📂 Featured Projects
-
-### 🌐 User Management REST API
-
-Backend system for managing users securely.
-
-**Tech Stack**
-
-Node.js • Express.js • MongoDB
-
-✨ Features
-
-- Full CRUD operations  
-- RESTful API structure  
-- Postman tested endpoints  
-
----
-
-### 📊 States Data API
-
-API providing structured insights into Indian states data.
-
-Tech: **Node.js • REST API**
 
 ---
 
@@ -100,6 +40,50 @@ Tech: **Node.js • REST API**
 
 ---
 
+## 🛠️ Tech Stack
+
+### 🚀 Frontend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+</p>
+
+### ⚙️ Backend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+</p>
+
+### 🧰 Tools & Others
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,postman,vscode,cpp&theme=dark" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+### 🌐 User Management REST API
+
+Backend system for managing users securely.
+
+**Tech Stack**  
+Node.js • Express.js • MongoDB  
+
+✨ Features
+
+- Full CRUD operations  
+- RESTful API structure  
+- Postman tested endpoints  
+
+---
+
+### 📊 States Data API
+
+API providing structured insights into Indian states data.
+
+**Tech:** Node.js • REST API  
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -107,16 +91,6 @@ Tech: **Node.js • REST API**
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
 
 </p>
 
