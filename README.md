@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Backend Developer | Computer Science Student</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=34&duration=2500&pause=500&color=00F7FF&center=true&vCenter=true&width=1000&lines=⚡+BACKEND+ARCHITECT;🚀+NODE.JS+|+EXPRESS+|+MONGODB;💡+BUILDING+SCALABLE+APIs;🔥+CLEAN+CODE+ENTHUSIAST" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=34&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=1000&lines=⚡+BACKEND+ARCHITECT;🚀+MASTERING+NODE.JS+|+EXPRESS;💡+BUILDING+SCALABLE+INFRASTRUCTURE;🔥+CLEAN+CODE+ENTHUSIAST;🌱+CONSTANTLY+EVOLVING" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa273-391e-4994-bb09-351744c57283.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Building%20the%20Digital%20Backbone&fontSize=40&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
@@ -22,17 +22,17 @@
 
 ## 🛠️ Tech Stack
 
-### 🚀 Frontend Development
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
-  </a>
-</p>
-
 ### ⚙️ Backend & Database
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,cpp&theme=dark" />
+  </a>
+</p>
+
+### 🚀 Frontend Development
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
   </a>
 </p>
 
