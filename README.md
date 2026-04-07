@@ -59,32 +59,7 @@
 ### 🧰 Tools & Others
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,postman,vscode,cpp&theme=dark" />
-</p>
-
----
-
-## 📂 Featured Projects
-
-### 🌐 User Management REST API
-
-Backend system for managing users securely.
-
-**Tech Stack**  
-Node.js • Express.js • MongoDB  
-
-✨ Features
-
-- Full CRUD operations  
-- RESTful API structure  
-- Postman tested endpoints  
-
----
-
-### 📊 States Data API
-
-API providing structured insights into Indian states data.
-
-**Tech:** Node.js • REST API  
+</p> 
 
 ---
 
