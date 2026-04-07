@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Backend Developer | Computer Science Student</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=34&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=1000&lines=⚡+BACKEND+ARCHITECT;🚀+MASTERING+NODE.JS+|+EXPRESS;💡+BUILDING+SCALABLE+INFRASTRUCTURE;🔥+CLEAN+CODE+ENTHUSIAST;🌱+CONSTANTLY+EVOLVING" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=34&duration=1800&pause=400&color=00F7FF&center=true&vCenter=true&width=1000&lines=⚡+BACKEND+ARCHITECT;🚀+NODE.JS+EXPERT;💡+SCALABLE+INFRASTRUCTURE;🔥+CLEAN+CODE+PRACTITIONER;🌱+ALWAYS+INNOVATING" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Building%20the%20Digital%20Backbone&fontSize=40&animation=fadeIn" width="100%" />
+  <img src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80" width="100%" alt="Professional Software Engineer" />
 </p>
 
 <p align="center">
