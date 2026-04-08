@@ -8,46 +8,45 @@
 
 ---
 
-## 📋 About & Connect
+## 🚀 About Me
 
 <table align="center">
-<tr>
-<td width="50%" align="center" valign="top">
-
-### 👩‍💻 **About Me**
-
-💻 **CS Student & Backend Developer**<br><br>
-⚙️ Building **Scalable APIs & Systems**<br>
-🌱 **Node.js, Express.js, MongoDB**<br>
-🎯 Focus: **High-performance Backend Architecture**<br>
-🔥 Clean code advocate & always innovating<br><br>
-<i>"Crafting robust backend solutions with modern stacks."</i>
-
-</td>
-<td width="5%"></td>
-<td width="45%" align="center" valign="top">
-
-### 🌐 **Connect With Me**
-
-<a href="mailto:bp623989@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a><br><br>
-<a href="https://www.linkedin.com/in/nandini-prajapati-6351363b1/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><br><br>
-<a href="https://x.com/NandiniPraj4434">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a><br><br>
-<a href="https://www.youtube.com/@NandiniPrajapati-n8z">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a><br><br>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
+  <tr>
+    <td width="160px" align="center">
+      <img src="https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?auto=format&fit=crop&w=300&q=80" width="150px" style="border-radius: 15px; border: 2px solid #00F7FF;" alt="Developer Profile" />
+    </td>
+    <td width="30px"> </td>
+    <td width="500px" align="left">
+      <b>💻 CS Student & Backend Developer</b><br>
+      ⚙️ Building Scalable APIs & Systems<br>
+      🌱 Node.js, Express.js, MongoDB<br>
+      🎯 Focus: High-performance Backend Architecture<br>
+      🔥 Clean code advocate & always innovating
+    </td>
+   </tr>
 </table>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:bp623989@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nandini-prajapati-6351363b1/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/NandiniPraj4434">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@NandiniPrajapati-n8z">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
