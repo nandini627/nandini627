@@ -52,9 +52,7 @@
   <img src="https://skillicons.dev/icons?i=git,postman,vscode&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/rest-api-skills.svg?lang=en&skills=nodejs,express,mongodb,cpp,react,html5,css3,javascript,git,postman,vscode&background=000000" width="100%" />
-</p>
+
 
 ---
 
