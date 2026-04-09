@@ -82,6 +82,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=⚡+Backend+Architect+%7C+Node.js+Expert;💡+Scalable+Infrastructure+Specialist;🔥+Clean+Code+Advocate;🚀+Always+Learning+%26+Innovating" />
-</p>
+
