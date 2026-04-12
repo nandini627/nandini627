@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Backend Developer | Computer Science Student</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=34&duration=1800&pause=400&color=00F7FF&center=true&vCenter=true&width=1000&lines=⚡+BACKEND+ARCHITECT;🚀+NODE.JS+EXPERT;💡+SCALABLE+INFRASTRUCTURE;🔥+CLEAN+CODE+PRACTITIONER;🌱+ALWAYS+INNOVATING" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=34&duration=1800&pause=400&color=00F7FF&center=true&vCenter=true&width=1000&lines=⚡+BACKEND+ARCHITECT;🚀+NODE.JS+DEVELOPER;💡+SCALABLE+SYSTEMS;🔥+CLEAN+CODE+LOVER;🌱+ALWAYS+LEARNING" />
 </p>
 
 ---
@@ -13,15 +13,15 @@
 <table align="center">
   <tr>
     <td width="160px" align="center">
-      <img src="https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?auto=format&fit=crop&w=300&q=80" width="150px" style="border-radius: 15px; border: 2px solid #00F7FF;" alt="Developer Profile" />
+      <img src="https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?auto=format&fit=crop&w=300&q=80" width="150px" style="border-radius: 15px; border: 2px solid #00F7FF;" />
     </td>
-    <td width="30px"> </td>
+    <td width="30px"></td>
     <td width="500px" align="left">
-      <b>💻 CS Student & Backend Developer</b><br>
-      ⚙️ Building Scalable APIs & Systems<br>
-      🌱 Node.js, Express.js, MongoDB<br>
-      🎯 Focus: High-performance Backend Architecture<br>
-      🔥 Clean code advocate & always innovating
+      <b>💻 CS Student & Backend Developer</b><br><br>
+      ⚙️ Building scalable APIs & backend systems<br>
+      🌱 Working with Node.js, Express.js, MongoDB<br>
+      🎯 Focused on performance & clean architecture<br>
+      🔥 Passionate about clean code & innovation
     </td>
    </tr>
 </table>
@@ -52,23 +52,8 @@
 
 ## 🛠️ Tech Stack
 
-### ⚙️ Backend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,cpp&theme=dark" />
-</p>
-
-### 🚀 Frontend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
-</p>
-
-### 🧰 Tools & Version Control
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,postman,vscode&theme=dark" />
-</p>
-
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/rest-api-skills.svg?lang=en&skills=nodejs,express,mongodb,cpp,react,html5,css3,javascript,git,postman,vscode&background=000000" width="100%" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,cpp,react,html,css,js,git,postman,vscode&theme=dark" />
 </p>
 
 ---
@@ -82,4 +67,16 @@
 
 ---
 
+## 🔥 Top Languages
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+<p align="center">
+💡 I turn coffee ☕ into scalable backend systems 🚀
+</p>
