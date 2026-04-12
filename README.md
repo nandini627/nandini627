@@ -80,9 +80,15 @@
 <!-- 5. GitHub Statistics -->
 ## 📊 GitHub Statistics
 
+<!-- GitHub Statistics -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PASTE_YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PASTE_YOUR_USERNAME_HERE&layout=donut&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- Contribution Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PASTE_YOUR_USERNAME_HERE&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
