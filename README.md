@@ -2,17 +2,19 @@
 <h3 align="center">🚀 Backend Developer | Computer Science Student</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=34&duration=1800&pause=400&color=00F7FF&center=true&vCenter=true&width=1000&lines=⚡+BACKEND+DEVELOPER;🚀+NODE.JS+ENTHUSIAST;💡+SCALABLE+SYSTEMS;🔥+CLEAN+CODE+LOVER;🌱+ALWAYS+LEARNING" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=34&duration=1800&pause=400&color=00F7FF&center=true&vCenter=true&width=1000&lines=⚡+BACKEND+DEVELOPER;🚀+NODE.JS+ENTHUSIAST;💡+SCALABLE+SYSTEMS;🔥+CLEAN+CODE+LOVER;🌱+ALWAYS+LEARNING" />
 </p>
 
-<!-- 1. Profile Views -->
+<!-- 1. Profile Views (Centered + Small) -->
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=00F7FF&style=flat" />
 </p>
 
 ---
 
 <!-- 2. Current Focus -->
+
 ## 🎯 Current Focus
 
 <table align="center">
@@ -35,6 +37,7 @@
 ---
 
 <!-- 3. Connect With Me -->
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -58,19 +61,23 @@
 ---
 
 <!-- 4. Technical Skills -->
+
 ## 🛠️ Technical Skills
 
 ### ⚙️ Backend Development
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,cpp&theme=dark" />
 </p>
 
 ### 🚀 Frontend Development
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 </p>
 
 ### 🧰 Tools & Version Control
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,postman,vscode&theme=dark" />
 </p>
@@ -78,22 +85,18 @@
 ---
 
 <!-- 5. GitHub Statistics -->
+
 ## 📊 GitHub Statistics
 
-<!-- GitHub Statistics -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PASTE_YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PASTE_YOUR_USERNAME_HERE&layout=donut&theme=tokyonight&hide_border=true" />
-</p>
-
-<!-- Contribution Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PASTE_YOUR_USERNAME_HERE&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 <!-- 6. GitHub Contribution Streak -->
+
 ## 🔥 GitHub Contribution Streak
 
 <p align="center">
