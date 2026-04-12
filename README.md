@@ -15,7 +15,7 @@
     <td width="160px" align="center">
       <img src="https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?auto=format&fit=crop&w=300&q=80" width="150px" style="border-radius: 15px; border: 2px solid #00F7FF;" />
     </td>
-    <td width="30px"></td>
+    <td width="30px"> </td>
     <td width="500px" align="left">
       <b>💻 CS Student & Backend Developer</b><br><br>
       ⚙️ Building scalable APIs & backend systems<br>
@@ -25,6 +25,16 @@
     </td>
    </tr>
 </table>
+
+<!-- Profile View Counter - Added above the image -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<!-- Your uploaded image - Added here -->
+<p align="center">
+  <img src="image.png" alt="GitHub Statistics" width="600px" style="border-radius: 10px; border: 1px solid #00F7FF;" />
+</p>
 
 ---
 
@@ -95,7 +105,6 @@
 💡 I turn coffee ☕ into scalable backend systems 🚀
 </p>
 
-## <p align="center">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
-
