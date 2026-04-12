@@ -1,43 +1,40 @@
 <h1 align="center">Hi 👋, I'm Nandini Prajapati</h1>
-
 <h3 align="center">🚀 Backend Developer | Computer Science Student</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=34&duration=1800&pause=400&color=00F7FF&center=true&vCenter=true&width=1000&lines=⚡+BACKEND+DEVELOPER;🚀+NODE.JS+ENTHUSIAST;💡+SCALABLE+SYSTEMS;🔥+CLEAN+CODE+LOVER;🌱+ALWAYS+LEARNING" />
 </p>
 
+<!-- 1. Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="Profile Views" />
+</p>
+
 ---
 
-## 🚀 About Me
+<!-- 2. Current Focus -->
+## 🎯 Current Focus
 
 <table align="center">
   <tr>
     <td width="160px" align="center">
       <img src="https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?auto=format&fit=crop&w=300&q=80" width="150px" style="border-radius: 15px; border: 2px solid #00F7FF;" />
     </td>
-    <td width="30px"> </td>
+    <td width="30px"></td>
     <td width="500px" align="left">
       <b>💻 CS Student & Backend Developer</b><br><br>
       ⚙️ Building scalable APIs & backend systems<br>
-      🌱 Working with Node.js, Express.js, MongoDB<br>
+      🌱 Currently learning — Node.js, Express.js, MongoDB<br>
       🎯 Focused on performance & clean architecture<br>
-      🔥 Passionate about clean code & innovation
+      🔥 Passionate about clean code & innovation<br>
+      🚀 Open to collaborating on backend projects
     </td>
-   </tr>
+  </tr>
 </table>
-
-<!-- Profile View Counter - Added above the image -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<!-- Your uploaded image - Added here -->
-<p align="center">
-  <img src="image.png" alt="GitHub Statistics" width="600px" style="border-radius: 10px; border: 1px solid #00F7FF;" />
-</p>
 
 ---
 
+<!-- 3. Connect With Me -->
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -60,51 +57,45 @@
 
 ---
 
-## 🛠️ Tech Stack
+<!-- 4. Technical Skills -->
+## 🛠️ Technical Skills
 
 ### ⚙️ Backend Development
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,cpp&theme=dark" />
 </p>
 
 ### 🚀 Frontend Development
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 </p>
 
 ### 🧰 Tools & Version Control
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,postman,vscode&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<!-- 5. GitHub Statistics -->
+## 📊 GitHub Statistics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 Top Languages
+<!-- 6. GitHub Contribution Streak -->
+## 🔥 GitHub Contribution Streak
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## ⚡ Fun Fact
-
 <p align="center">
-💡 I turn coffee ☕ into scalable backend systems 🚀
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  💡 I turn coffee ☕ into scalable backend systems 🚀
 </p>
