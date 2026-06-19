@@ -1,61 +1,120 @@
-<h1 align="center">Hi 👋, I'm Nandini Prajapati</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Nandini%20Prajapati&fontSize=50&fontAlignY=40&desc=Backend%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=60&animation=fadeIn&fontColor=00F7FF"/>
+
 <p align="center">
-  <img src="[readme-typing-svg.herokuapp.com](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Node.js+Enthusiast;Scalable+Architect;Clean+Code+Lover)" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=500&color=00F7FF&center=true&vCenter=true&width=750&lines=Backend+Developer;Node.js+Enthusiast;Scalable+Architect;Clean+Code+Lover" />
 </p>
 
 <p align="center">
-  <img src="[img.shields.io](https://img.shields.io/badge/Maintained%3F-yes-00F7FF?style=for-the-badge)" />
-  <img src="[komarev.com](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge)" />
-</p>
-
----
-
-### 🚀 About Me
-
-I am a Computer Science student and Backend Developer dedicated to building high-performance, scalable APIs. I focus on clean architecture and turning complex problems into efficient code.
-
-- 🛠️ **Current Stack**: Node.js, Express, and MongoDB.
-- 🌱 **Learning**: Advanced system design and microservices.
-- 🔥 **Passion**: Clean code and optimized database queries.
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-| Section | Tech & Tools |
-| :--- | :--- |
-| **Backend** | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
-
-</div>
-
----
-
-### 📊 GitHub Insights
-
-<p align="center">
-  <img width="48%" src="[github-readme-stats.vercel.app](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&title_color=00F7FF&icon_color=00F7FF)" />
-  <img width="48%" src="[github-readme-stats.vercel.app](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut&theme=radical&hide_border=true&title_color=00F7FF)" />
-</p>
-
-<p align="center">
-  <img width="100%" src="[github-readme-streak-stats.herokuapp.com](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&stroke=00F7FF&ring=00F7FF&fire=00F7FF)" />
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-00F7FF?style=flat" />&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=nandini-prajapati&label=Profile%20Views&color=00F7FF&style=flat" />
 </p>
 
 ---
 
-### 🌐 Let's Connect
+# 👋 Hello, I'm Nandini Prajapati
+
+I am a **Computer Science Student and Backend Developer** dedicated to building high-performance, scalable APIs. I focus on clean architecture and transforming complex problems into efficient, optimized code.
+
+---
+
+# 🎯 Current Focus
+
+<table>
+<tr>
+<td width="70%">
+
+• 💻 **Building** scalable APIs & backend systems  
+• 🌱 **Learning** advanced system design and microservices  
+• 🛠️ **Perfecting** implementations in Node.js, Express, and MongoDB  
+• 🔥 **Obsessing** over clean code and optimized database queries  
+• 🚀 **Open** to collaborating on open-source backend projects  
+
+</td>
+<td width="30%" align="right">
+
+<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/f5b7aacbd6f9e8f0e46c48c382d51e2c.gif" width="200" height="130" alt="Coding working on laptop"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:bp623989@gmail.com"><img src="[img.shields.io](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)"/></a>
-  <a href="[linkedin.com](https://www.linkedin.com/in/nandini-prajapati-6351363b1/)"><img src="[img.shields.io](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"/></a>
-  <a href="[x.com](https://x.com/NandiniPraj4434)"><img src="[img.shields.io](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)"/></a>
-  <a href="[youtube.com](https://www.youtube.com/@NandiniPrajapati-n8z)"><img src="[img.shields.io](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)"/></a>
+
+<a href="https://www.linkedin.com/in/nandini-prajapati-6351363b1/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>&nbsp;&nbsp;
+
+<a href="mailto:bp623989@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>&nbsp;&nbsp;
+
+<a href="https://x.com/NandiniPraj4434">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white">
+</a>&nbsp;&nbsp;
+
+<a href="https://www.youtube.com/@NandiniPrajapati-n8z">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
 </p>
+
+---
+
+# 🛠️ Technical Skills
+
+## Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css" />
+</p>
+
+## Backend Development & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+## Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
+</p>
+
+## Development Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nandini-prajapati&theme=tokyonight" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nandini-prajapati&theme=tokyonight" width="48%"/>
+</p>
+
+---
+
+# 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=nandini-prajapati&theme=tokyonight"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nandini-prajapati/nandini-prajapati/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+</p>
+
+---
 
 <p align="center">
   <i>"I turn coffee ☕ into scalable systems 🚀"</i>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
