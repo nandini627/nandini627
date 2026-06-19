@@ -1,110 +1,61 @@
 <h1 align="center">Hi 👋, I'm Nandini Prajapati</h1>
-<h3 align="center">🚀 Backend Developer | Computer Science Student</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=34&duration=1800&pause=400&color=00F7FF&center=true&vCenter=true&width=1000&lines=⚡+BACKEND+DEVELOPER;🚀+NODE.JS+ENTHUSIAST;💡+SCALABLE+SYSTEMS;🔥+CLEAN+CODE+LOVER;🌱+ALWAYS+LEARNING" />
+  <img src="[readme-typing-svg.herokuapp.com](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Node.js+Enthusiast;Scalable+Architect;Clean+Code+Lover)" />
 </p>
 
-<!-- 1. Profile Views (Centered + Small) -->
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=00F7FF&style=flat" />
+  <img src="[img.shields.io](https://img.shields.io/badge/Maintained%3F-yes-00F7FF?style=for-the-badge)" />
+  <img src="[komarev.com](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge)" />
 </p>
 
 ---
 
-<!-- 2. Current Focus -->
+### 🚀 About Me
 
-## 🎯 Current Focus
+I am a Computer Science student and Backend Developer dedicated to building high-performance, scalable APIs. I focus on clean architecture and turning complex problems into efficient code.
 
-<table align="center">
-  <tr>
-    <td width="160px" align="center">
-      <img src="https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?auto=format&fit=crop&w=300&q=80" width="150px" style="border-radius: 15px; border: 2px solid #00F7FF;" />
-    </td>
-    <td width="30px"></td>
-    <td width="500px" align="left">
-      <b>💻 CS Student & Backend Developer</b><br><br>
-      ⚙️ Building scalable APIs & backend systems<br>
-      🌱 Currently learning — Node.js, Express.js, MongoDB<br>
-      🎯 Focused on performance & clean architecture<br>
-      🔥 Passionate about clean code & innovation<br>
-      🚀 Open to collaborating on backend projects
-    </td>
-  </tr>
-</table>
+- 🛠️ **Current Stack**: Node.js, Express, and MongoDB.
+- 🌱 **Learning**: Advanced system design and microservices.
+- 🔥 **Passion**: Clean code and optimized database queries.
 
 ---
 
-<!-- 3. Connect With Me -->
+### 🛠️ Tech Stack
 
-## 🌐 Connect With Me
+<div align="center">
+
+| Section | Tech & Tools |
+| :--- | :--- |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+
+</div>
+
+---
+
+### 📊 GitHub Insights
 
 <p align="center">
-  <a href="mailto:bp623989@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nandini-prajapati-6351363b1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/NandiniPraj4434">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@NandiniPrajapati-n8z">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img width="48%" src="[github-readme-stats.vercel.app](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&title_color=00F7FF&icon_color=00F7FF)" />
+  <img width="48%" src="[github-readme-stats.vercel.app](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut&theme=radical&hide_border=true&title_color=00F7FF)" />
+</p>
+
+<p align="center">
+  <img width="100%" src="[github-readme-streak-stats.herokuapp.com](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&stroke=00F7FF&ring=00F7FF&fire=00F7FF)" />
 </p>
 
 ---
 
-<!-- 4. Technical Skills -->
-
-## 🛠️ Technical Skills
-
-### ⚙️ Backend Development
+### 🌐 Let's Connect
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,cpp&theme=dark" />
+  <a href="mailto:bp623989@gmail.com"><img src="[img.shields.io](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)"/></a>
+  <a href="[linkedin.com](https://www.linkedin.com/in/nandini-prajapati-6351363b1/)"><img src="[img.shields.io](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"/></a>
+  <a href="[x.com](https://x.com/NandiniPraj4434)"><img src="[img.shields.io](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)"/></a>
+  <a href="[youtube.com](https://www.youtube.com/@NandiniPrajapati-n8z)"><img src="[img.shields.io](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)"/></a>
 </p>
 
-### 🚀 Frontend Development
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
-</p>
-
-### 🧰 Tools & Version Control
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,postman,vscode&theme=dark" />
-</p>
-
----
-
-<!-- 5. GitHub Statistics -->
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<!-- 6. GitHub Contribution Streak -->
-
-## 🔥 GitHub Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  💡 I turn coffee ☕ into scalable backend systems 🚀
+  <i>"I turn coffee ☕ into scalable systems 🚀"</i>
 </p>
