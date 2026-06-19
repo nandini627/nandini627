@@ -24,7 +24,7 @@
 
 <table align="center">
 <tr>
-<td width="70%">
+<td width="65%">
 
 • 💻 **Building** scalable APIs & backend systems  
 • 🌱 **Learning** advanced system design and microservices  
@@ -33,9 +33,9 @@
 • 🚀 **Open** to collaborating on open-source backend projects  
 
 </td>
-<td width="30%" align="right">
+<td width="35%" align="center" valign="middle">
 
-<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/f5b7aacbd6f9e8f0e46c48c382d51e2c.gif" width="200" height="130" alt="Coding working on laptop"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9sc3ptcmZ5N3R4bWZ3Zzl0eG15ZzhvY3g2bms4N3p5cjN0Y3FvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3RsPXM/kdFc8fUbgSrgSGJQme/giphy.gif" width="160" alt="Cute pixel cat typing furiously on a laptop"/>
 
 </td>
 </tr>
@@ -116,14 +116,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=nandini-prajapati&theme=tokyonight"/>
-</p>
-
----
-
-<h1 align="center">🐍 Contribution Snake</h1>
-
-<p align="center">
-  <img src="https://github.com/nandini-prajapati/nandini-prajapati/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
 </p>
 
 ---
