@@ -11,15 +11,18 @@
 
 ---
 
-# 👋 Hello, I'm Nandini Prajapati
+<h1 align="center">👋 Hello, I'm Nandini Prajapati</h1>
 
-I am a **Computer Science Student and Backend Developer** dedicated to building high-performance, scalable APIs. I focus on clean architecture and transforming complex problems into efficient, optimized code.
+<p align="center">
+  I am a <b>Computer Science Student and Backend Developer</b> dedicated to building high-performance, scalable APIs.<br>
+  I focus on clean architecture and transforming complex problems into efficient, optimized code.
+</p>
 
 ---
 
-# 🎯 Current Focus
+<h1 align="center">🎯 Current Focus</h1>
 
-<table>
+<table align="center">
 <tr>
 <td width="70%">
 
@@ -40,55 +43,50 @@ I am a **Computer Science Student and Backend Developer** dedicated to building 
 
 ---
 
-# 🌐 Connect With Me
+<h1 align="center">🌐 Connect With Me</h1>
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/nandini-prajapati-6351363b1/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>&nbsp;&nbsp;
-
-<a href="mailto:bp623989@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>&nbsp;&nbsp;
-
-<a href="https://x.com/NandiniPraj4434">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white">
-</a>&nbsp;&nbsp;
-
-<a href="https://www.youtube.com/@NandiniPrajapati-n8z">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
-
+  <a href="https://www.linkedin.com/in/nandini-prajapati-6351363b1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>&nbsp;&nbsp;
+  <a href="mailto:bp623989@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/NandiniPraj4434" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@NandiniPrajapati-n8z" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
 </p>
 
 ---
 
-# 🛠️ Technical Skills
+<h1 align="center">🛠️ Technical Skills</h1>
 
-## Programming Languages
-<p align="left">
+<h3 align="center">Programming Languages</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,js,html,css" />
 </p>
 
-## Backend Development & Databases
-<p align="left">
+<h3 align="center">Backend Development & Databases</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-## Frontend Development
-<p align="left">
+<h3 align="center">Frontend Development</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,html,css" />
 </p>
 
-## Development Tools
-<p align="left">
+<h3 align="center">Development Tools</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+<h1 align="center">📊 GitHub Statistics</h1>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nandini-prajapati&theme=tokyonight" width="48%"/>
@@ -97,7 +95,7 @@ I am a **Computer Science Student and Backend Developer** dedicated to building 
 
 ---
 
-# 🔥 GitHub Contribution Streak
+<h1 align="center">🔥 GitHub Contribution Streak</h1>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=nandini-prajapati&theme=tokyonight"/>
@@ -105,10 +103,10 @@ I am a **Computer Science Student and Backend Developer** dedicated to building 
 
 ---
 
-# 🐍 Contribution Snake
+<h1 align="center">🐍 Contribution Snake</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nandini-prajapati/nandini-prajapati/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+  <img src="https://github.com/nandini-prajapati/nandini-prajapati/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
 </p>
 
 ---
