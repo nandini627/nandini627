@@ -64,24 +64,41 @@
 
 <h1 align="center">🛠️ Technical Skills</h1>
 
-<h3 align="center">Programming Languages</h3>
+<h3 align="center">⚙️ Programming Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" />
 </p>
 
-<h3 align="center">Backend Development & Databases</h3>
+<br>
+
+<h3 align="center">🚀 Backend Development & Databases</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-<h3 align="center">Frontend Development</h3>
+<br>
+
+<h3 align="center">🎨 Frontend Development</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=react" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" />
 </p>
 
-<h3 align="center">Development Tools</h3>
+<br>
+
+<h3 align="center">🛠️ Development Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" />
 </p>
 
 ---
