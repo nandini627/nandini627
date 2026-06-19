@@ -35,12 +35,11 @@
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa27e-ae11-47bb-a8b4-b906730ef3ec.gif" width="160" alt="Cute animated coding cat"/>
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/GIFs/cat-typing.gif" width="180" alt="Cute animated coding cat"/>
 
 </td>
 </tr>
 </table>
-
 ---
 
 <h1 align="center">🌐 Connect With Me</h1>
